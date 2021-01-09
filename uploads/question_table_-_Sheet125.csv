@@ -1,0 +1,4 @@
+title_id,question,field1,value1,field2,value2,field3,value3,field4,value4,field5,value5
+1,What type of labor is required for the project?,checkbox,Non-Union,checkbox,Union,textfield,Other,,,,
+1,Is the work to be phased?,checkbox,Single Phase,textfield,# Of Phases,,,,,,
+1,On which levels is the work to occur,checkbox,Main Floor,checkbox,Multiple Floors,textfield,Floor Details,,,,
